@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="815" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="780" class="">
     <defs>
         <style/>
     </defs>
@@ -1550,6 +1550,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <span class="sha">#e4023ef</span>
+                                        <span class="message">Update github-metrics.svg - [Skip GitHub Action]</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">MottainaiCI/MottainaiCI</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <span class="sha">#6740249</span>
                                         <span class="message">Update github-metrics.svg - [Skip GitHub Action]</span>
                                     </div>
@@ -1613,38 +1632,11 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      <div class="user">geaaru</div> pushed 3 commits in <span class="repo">MottainaiCI/mottainai-server</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e99835d</span>
-                                        <span class="message">arangodb/nodes: Return err when node isn't found</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1d59b92</span>
-                                        <span class="message">api/nodes/update: Add debug message</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8f9d738</span>
-                                        <span class="message">arangodb: Fix update document function</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 28 Nov 2021, 06:09:47 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Nov 2021, 07:13:09 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
