@@ -1486,14 +1486,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="348.73977686299634" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="348.73977686299634" y="0" width="30.532301705219254" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="379.2720785682156" y="0" width="22.319723498221176" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="401.59180206643674" y="0" width="19.14289219361258" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="420.7346942600493" y="0" width="15.326305494595367" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="436.0609997546447" y="0" width="12.832729032346005" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.89372878699066" y="0" width="7.514039774818369" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.40776856180906" y="0" width="3.5922314381909137" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="348.7379942648495" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="348.7379942648495" y="0" width="30.532145638065316" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="379.2701399029148" y="0" width="22.31960941000874" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="401.5897493129236" y="0" width="19.14279434390798" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="420.7325436568316" y="0" width="15.326227153535397" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="436.058770810367" y="0" width="12.832663437307785" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.89143424767474" y="0" width="7.514001366485661" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.4054356141604" y="0" width="3.5945643858396648" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1537,6 +1537,44 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      <div class="user">geaaru</div> pushed 1 commit in <span class="repo">MottainaiCI/lxd-compose</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#2d997bd</span>
+                                        <span class="message">Makefile: Update</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">MottainaiCI/MottainaiCI</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#dd3c946</span>
+                                        <span class="message">Update github-metrics.svg - [Skip GitHub Action]</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1598,49 +1636,11 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      <div class="user">github-actions[bot]</div> pushed 1 commit in <span class="repo">MottainaiCI/MottainaiCI</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2c36888</span>
-                                        <span class="message">Update github-metrics.svg - [Skip GitHub Action]</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      <div class="user">geaaru</div> pushed 1 commit in <span class="repo">MottainaiCI/lxd-compose</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#11f7fdb</span>
-                                        <span class="message">Makefile: using ginkgo from vendor</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 31 Dec 2021, 09:13:52 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 31 Dec 2021, 10:11:50 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
