@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="774" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="808" class="">
     <defs>
         <style/>
     </defs>
@@ -117,14 +117,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.78004716491034" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="325.78004716491034" y="0" width="45.20157646666184" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="370.9816236315722" y="0" width="28.210047574218617" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="399.1916712057908" y="0" width="20.622109260128017" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="419.8137804659188" y="0" width="17.90668715307186" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="437.72046761899065" y="0" width="11.856685421382895" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.57715304037356" y="0" width="6.942529966090382" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.51968300646394" y="0" width="3.4803169935360776" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.9480294458927" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="325.9480294458927" y="0" width="45.14500466970853" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="371.09303411560126" y="0" width="28.174741436509258" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="399.2677755521105" y="0" width="20.59629976698626" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="419.8640753190968" y="0" width="17.884276132286395" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="437.74835145138314" y="0" width="11.841846248667483" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.5901977000507" y="0" width="6.9338410789699605" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.5240387790206" y="0" width="3.4759612209794124" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -193,6 +193,67 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        <div class="user">geaaru</div>
+                                        pushed 3 commits in
+                                        <span class="repo">MottainaiCI/mottainai-server</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5b15884</div>
+                                        <div class="message">mcli/task/show: Improve errors messages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da38bd3</div>
+                                        <div class="message">Improve storages security checks
+
+Storages are now usable from admin or
+his owner.
+
+If a task or a pipeline contains
+a storage not owned by the user
+the creation is rejected.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f59cf0</div>
+                                        <div class="message">Integrate community mode
+
+Setting `system.community` with value `true`
+enable the visibility of all tasks to all
+registered users.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">MottainaiCI/MottainaiCI</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#56969cc</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         <div class="user">github-actions[bot]</div>
                                         pushed 1 commit in
                                         <span class="repo">MottainaiCI/MottainaiCI</span>
@@ -249,53 +310,11 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">MottainaiCI/MottainaiCI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#648af8f</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">MottainaiCI/MottainaiCI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dfb9503</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 25 Apr 2022, 14:22:46 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 15:28:24 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
