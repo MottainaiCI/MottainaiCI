@@ -117,14 +117,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.87604708284647" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="318.87604708284647" y="0" width="44.01663605149787" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="362.89268313434434" y="0" width="30.45519575759225" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="393.3478788919366" y="0" width="27.513725087409405" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="420.861603979346" y="0" width="17.43727084134163" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="438.2988748206876" y="0" width="11.545867373785725" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.8447421944733" y="0" width="6.760534447717813" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.60527664219114" y="0" width="3.394723357808861" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="318.88367273265186" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="318.88367273265186" y="0" width="44.014257607263545" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="362.8979303399154" y="0" width="30.453550107418753" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="393.35148044733415" y="0" width="27.512238379958106" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="420.86371882729225" y="0" width="17.43632861631002" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="438.30004744360224" y="0" width="11.54524349145057" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.84529093505284" y="0" width="6.76016914142409" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.60546007647696" y="0" width="3.3945399235230593" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -193,6 +193,48 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        <div class="user">geaaru</div>
+                                        pushed 1 commit in
+                                        <span class="repo">MottainaiCI/lxd-compose</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ed8e989</div>
+                                        <div class="message">cmd/network/create: Avoid to create multiple time network for groups with same remote</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">MottainaiCI/MottainaiCI</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#82941d3</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         <div class="user">github-actions[bot]</div>
                                         pushed 1 commit in
                                         <span class="repo">MottainaiCI/MottainaiCI</span>
@@ -249,53 +291,11 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">MottainaiCI/MottainaiCI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5e8d98f</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">MottainaiCI/MottainaiCI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5911e08</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 15 Aug 2022, 19:21:04 (timezone Europe/Rome) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 15 Aug 2022, 20:16:53 (timezone Europe/Rome) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
