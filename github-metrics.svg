@@ -69,7 +69,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    37.4k added, 28.6k removed
+                                    3.43m added, 559k removed
                                 </div>
                             </section>
                             <section>
@@ -117,14 +117,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.1215564757253" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="332.1215564757253" y="0" width="39.52564988519291" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="371.64720636091823" y="0" width="27.3478737287249" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="398.9950800896431" y="0" width="24.706519225368787" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="423.7015993150119" y="0" width="16.59296207787059" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="440.29456139288254" y="0" width="10.367850712244438" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="450.6624121051269" y="0" width="6.070761911579272" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.7331740167062" y="0" width="3.2668259832937796" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.1538024707929" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="332.1538024707929" y="0" width="39.52835698638293" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="371.6821594571758" y="0" width="27.349746777282746" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="399.0319062344586" y="0" width="24.708211368263097" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="423.7401176027217" y="0" width="16.594098525405734" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="440.3342161281274" y="0" width="10.368560803566973" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="450.7027769316944" y="0" width="6.07117769643905" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.7739546281334" y="0" width="3.226045371866552" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -186,6 +186,27 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">MottainaiCI/MottainaiCI</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1ef2296</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -270,32 +291,11 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">MottainaiCI/MottainaiCI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4a8590f</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 26 Sept 2024, 17:13:37 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2024, 18:16:13 (timezone Europe/Rome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
